@@ -4,5 +4,4 @@ This bot is able to screenshot url passed to it and returns PDF document as repo
 
 Requires:
   - python 2.7
-  - telegram.ext
-  - telegram
+  - telegram package - https://python-telegram-bot.readthedocs.io/en/stable/
